@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes Netflix’s public catalog metadata to identify strategic shifts in content mix (Movies vs TV Shows), genre concentration, and release timing (lag between release and platform addition). The goal is to translate descriptive EDA into actionable portfolio insights for content strategy and acquisition teams.
 
+## 📊 Report (One-Click View)
+- HTML: https://htmlpreview.github.io/?https://github.com/aksharptl2914/Netflix-Content-Portfolio-Analysis/blob/main/reports/netflix.html
+
 ## Key Findings (Highlights)
 - TV Shows account for a growing share of new additions in recent years, indicating a retention-driven portfolio shift.
 - A small number of genres dominate annual additions, increasing concentration risk.
@@ -27,4 +30,4 @@ This project analyzes Netflix’s public catalog metadata to identify strategic 
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/netflix_analysis.ipynb
+jupyter notebook notebooks/netflix.ipynb
