@@ -1,4 +1,4 @@
-# Netflix Content Portfolio Strategy: Mix, Genres, and Release Timing
+# Netflix Content Portfolio Analysis: Mix, Genres, and Release Timing
 
 ## Overview
 This project analyzes Netflix’s public catalog metadata to identify strategic shifts in content mix (Movies vs TV Shows), genre concentration, and release timing (lag between release and platform addition). The goal is to translate descriptive EDA into actionable portfolio insights for content strategy and acquisition teams.
